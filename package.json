@@ -1,0 +1,22 @@
+{
+  "name": "bezier",
+  "version": "1.0.0",
+  "description": "Bezier Excercise ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryalv77/bezier-excercise.git"
+  },
+  "author": "Bryan Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryalv77/bezier-excercise/issues"
+  },
+  "homepage": "https://github.com/bryalv77/bezier-excercise#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
